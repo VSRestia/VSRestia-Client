@@ -1,0 +1,8 @@
+{
+  "LocalProxyPort": 25565,
+  "ServerPort": 25565,
+  "ServerIP": "127.0.0.1",
+  "SecretKey": "xxxxxxxxxxxxxxxx",
+  "EncryptType": "AES",
+  "EncryptMode": "CBC"
+}
